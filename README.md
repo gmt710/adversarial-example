@@ -2,7 +2,8 @@
 
 ## Gradient-based attacks                           
 |year/month   | mothod  |                                           paper                                 |                 
-|:-----------:|:-------:|:-------------------------------------------------------------------------------:|                      
+|:-----------:|:-------:|:-------------------------------------------------------------------------------:|     
+|2013-12      |L-BFGS   | [Intriguing properties of neural networks](https://arxiv.org/pdf/1312.6199.pdf)    
 |2014-12      |FGSM     | [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)        
 |2015-10      |L-BFGS-B | [Exploring the Space of Adversarial Images](https://arxiv.org/abs/1510.05328)
 |2015-11      |DeepFool| [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599)    
