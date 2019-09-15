@@ -1,7 +1,7 @@
 # adversarial-example(classify)
 [Foolbox implementation](https://foolbox.readthedocs.io/en/latest/index.html)    
 ## Gradient-based attacks                           
-|year/month   | mothod  |                                           paper                                 |                 
+|year/month   | method  |                                           paper                                 |                 
 |:-----------:|:-------:|:-------------------------------------------------------------------------------:|     
 |2013-12      |L-BFGS   | [Intriguing properties of neural networks](https://arxiv.org/pdf/1312.6199.pdf)    
 |2014-12      |FGSM     | [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)        
@@ -19,12 +19,12 @@
 |2018-11      |SparseFoolAttack   | [SparseFool: a few pixels make a big difference](https://arxiv.org/abs/1811.02248)
 
 ## Score-based attacks                  
-|year/month   | mothod  |                                           paper                                 |                 
+|year/month   | method  |                                           paper                                 |                 
 |:-----------:|:-------:|:-------------------------------------------------------------------------------:|                      
 |2016-12      |LocalSearchAttack     | [Simple Black-Box Adversarial Perturbations for Deep Networks](https://arxiv.org/abs/1612.06299) 
 
 ## Decision-based attacks          
-|year/month   | mothod  |                                           paper                                 |                 
+|year/month   | method  |                                           paper                                 |                 
 |:-----------:|:-------:|:-------------------------------------------------------------------------------:|                    
 |2017-12      |SpatialAttack     | [A Rotation and a Translation Suffice: Fooling CNNs with Simple Transformations](https://arxiv.org/abs/1712.02779)  
 |2017-12      |BoundaryAttack     | [Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models](https://arxiv.org/abs/1712.04248)  
@@ -33,7 +33,7 @@
                              
                           
 # adversarial-example(detection)
-|year/month   | mothod  |                                           paper                                 |                 
+|year/month   | method  |                                           paper                                 |                 
 |:-----------:|:-------:|:-------------------------------------------------------------------------------:|                    
 |             |         | []()  
 
